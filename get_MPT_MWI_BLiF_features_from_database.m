@@ -40,7 +40,7 @@ for iScene = 1 : sceneNum
     features(iScene,:) = Feat;
 end
 features = squeeze(features);
-save([dataset_name, '_MPT_MWI_BLiF.mat'], 'features');
+save([dataset_name, '_MPT_MWI_BLiF_PCA.mat'], 'features');
 
 
 
