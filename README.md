@@ -1,6 +1,6 @@
 # MPT-MWI-BLiF
 
-The demo of our proposed MPT-MWI-BLiF metric for light field image quality assessment. The corresponding paper has been submitted to TIP. 
+The demo of our proposed MPT-MWI-BLiF metric for light field image quality assessment. The corresponding paper has been submitted to PR. 
 
 **The full code will be provided after the paper is accepted.**
 
@@ -27,5 +27,5 @@ Please run:
 ```
 
 ## Contact
-Welcome to raise issues or email to [zhengyu.zhang@insa-rennes.fr](zhengyu.zhang@insa-rennes.fr) for any question.
+Welcome to raise issues or email to [zhengyu.zhang@insa-rennes.fr](zhengyu.zhang@insa-rennes.fr) for any questions.
 
