@@ -2,7 +2,7 @@
 
 Zhengyu Zhang, Shishun Tian, Jianjun Xiang, Wenbin Zou, Luce Morin, and Lu Zhang.
 
-The code of our proposed MPT-MWI-BLiF metric in "Blind Light Field Image Quality Assessment using Multiplane Texture and Multilevel Wavelet Information", which has been accepted by IEEE Transactions on Broadcasting. <!-- Please refer to our [paper](https://...) for details. -->
+The code of our proposed MPT-MWI-BLiF metric in "Blind Light Field Image Quality Assessment using Multiplane Texture and Multilevel Wavelet Information", which has been accepted by IEEE Transactions on Broadcasting. Please refer to our [paper](https://ieeexplore.ieee.org/document/11231044) for details.
 
 ### Run demo
 To run the demo code, please download "./demo/EPICNN_dishes.bmp" on [Baidu drive](https://pan.baidu.com/s/1rpOhzPzczGBp76uAFjRI8Q) (code: GZHU), put it into "./demo/..." and run:
@@ -34,11 +34,9 @@ If you find this work helpful, please consider citing:
   author       = {Zhang, Zhengyu and Tian, Shishun and Xiang, Jianjun and Zou, Wenbin and Morin, Luce and Zhang, Lu},
   journal      = {IEEE Transactions on Broadcasting},
   year         = {2025},
+  doi          = {10.1109/TBC.2025.3627787},
 }
 ```
-
-<!--   doi          = {10.1109/TCSVT.2024.3486336}   -->
-
 
 ## Contact
 For some reasons, here we only provide the code of MPT-MWI-BLiF metric with obfuscated pcode files. 
